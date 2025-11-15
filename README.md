@@ -3,7 +3,7 @@
 
 ```
 pip install aiohttp beautifulsoup4 lxml
-git clone 
+git clone https://github.com/joongloom/gift-parser
 ```
 
 # Параметры get_gifts()
